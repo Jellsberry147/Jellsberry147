@@ -3,7 +3,7 @@ I've been learning Web Development since November 2021, and am having a great ti
 
 
 
-###Outside of my career and educational ambitions, I have a few dozen other ways to pursue my creative side.
+Outside of my career and educational ambitions, I have a few dozen other ways to pursue my creative side.
 
 -I love flying my DJI and getting to see the world I'm familiar with from such cool angles, and from so high up
 
