@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I've been learning Web Development since November 2021, and am having a great time finding all of the different ways to use these skills! I plan to focus on making standard websites for the foreseeable future, but games and other forms of interactive content are next on my radar! For now I'm more geared towards Frontend development, but I have some experience from a lot of different disciplines. Java, C++ and Python are the main OOP languages I've done some work with, and SQL and I have a love-hate relationship (I love it, it hates me). 
+I've been learning Software Development & Programming since early 2020 and am having a great time finding all of the different ways to use these skills!I have some experience from a lot of different disciplines. Java, C++ and Python are the main OOP languages I've done some work with, and SQL and I have a love-hate relationship (I love it, it hates me). I also come equipped with a lot of time spent tinkering around with web dev. :)
 
 
 
